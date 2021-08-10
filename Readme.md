@@ -34,7 +34,7 @@
 
             F    < 60
 
-    - The objective of the Game is to increase your grade by demonstrating your knowlidge in a fun way.
+    - The objective of the Game is to increase your grade by demonstrating your knowledge in a fun way.
     - Each player starts off with a score of 60(starts with F grade)
     - Every easy question is worth 4 points
     - Every mediums question is worth 8 points
